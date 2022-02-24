@@ -4,3 +4,4 @@ services:
     image: 2206923875/234-deploylab-newsfrontend:latest
     ports:
       - "8086:80"
+      
